@@ -5,5 +5,4 @@ public class UserApp {
 		System.out.println("hello scholars!!");
 		System.out.println(" Adding new ");
 	}
-
 }
